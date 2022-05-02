@@ -1,0 +1,2 @@
+cd "C:\Users\umk27\.jdks\azul-17.0.3\bin"
+start java -cp C:\Users\umk27\IdeaProjects\Calculator\Calculator\target\classes com.calculator.Main
